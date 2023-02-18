@@ -1,0 +1,7 @@
+To convert an object to an array you use one of three methods: Object.keys(), Object.values(), and Object.entries()
+For Example--
+var superHeroes = {'shiv':1,'Hanuman':8,'Krishna':null};
+//convert object keys to array.
+var k = Object. keys(superHeroes);
+//convert object values to array.
+var v = Object. values(superHeroes);
